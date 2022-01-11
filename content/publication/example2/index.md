@@ -1,43 +1,51 @@
 ---
 title: "Thickness-Independent Measurement of Grain Moisture Content by Attenuation and Corrected Phase Shift of Microwave Signals at Multiple Optimized Frequencies"
 
-# Authors
+# (1) Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Zhenbo Wei
 
-# Author notes (optional)
+# (2) Author notes (optional)
 author_notes:
 - "The First Author"
 - "Corresponding Author"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-09-17T00:00:00Z"
 doi: "10.1109/TIE.2020.3032927"
 
-# Schedule page publish date (NOT publication's date).
+# (3) Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-27T00:00:00Z"
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# (4) Publication type.
+# Legend: 
+# 0 = Uncategorized; 
+# 1 = Conference paper; 
+# 2 = Journal article;
+# 3 = Preprint / Working Paper; 
+# 4 = Report; 
+# 5 = Book; 
+# 6 = Book section;
+# 7 = Thesis; 
+# 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
+# (5) Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Industrial Electronics*
 publication_short: In *IEEE TIE*
 
+# (6) Abstract
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
+# (7) Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: False
 
 # Custom links (uncomment lines below)
 # links:
