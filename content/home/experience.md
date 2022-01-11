@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant
+  - title: Teaching Assistant, The Principles of Food Engineering
     company: College of Biosystems Engineering and Food Science, Zhejiang University
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'http://www.caefs.zju.edu.cn/english/'
+    company_logo: org-zju
     location: Hangzhou, China
     date_start: '2018-11-05'
     date_end: '2020-11-16'
