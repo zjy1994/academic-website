@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Hangzhou, China
-    date_start: 'Autumn 2018'
-    date_end: 'Autumn 2020'
+    date_start: '2018-11-05'
+    date_end: '2020-11-16'
     description: |2-
         Responsibilities include:
         
