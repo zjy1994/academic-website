@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: College of Biosystems Engineering and Food Science, Zhejiang University
-    company_url: 'http://www.caefs.zju.edu.cn/english/'
+    company_url: ''
     company_logo: org-gc
     location: Hangzhou, China
     date_start: 'Autumn 2018'
