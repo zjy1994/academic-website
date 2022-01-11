@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Paper'
 
 content:
   # Filter on criteria
