@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "2nd paper"
 
 content:
   # Page type to display. E.g. post, talk, publication...
