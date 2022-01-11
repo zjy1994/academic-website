@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "The First Author"
+- "Corresponding Author"
 
 date: "2013-07-01T00:00:00Z"
 doi: "10.1109/TIE.2020.3032927"
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- OM2S2_On-Line_Moisture-Sensing_System_Using_Multifrequency_Microwave_Signals_Optimized_by_a_Two-Stage_Frequency_Selection_Framework
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
