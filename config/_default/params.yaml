@@ -154,7 +154,7 @@ search:
 # 2: OpenStreetMap (Mapnik)
 # 3: OpenStreetMap (Mapbox)
 map:
-  provider: 'Mapnik'
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 
