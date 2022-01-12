@@ -54,6 +54,10 @@ contact_links:
     icon_pack: fas
     name: Discuss on Forum
     link: 'https://discourse.gohugo.io'
+  - icon: wechat
+    icon_pack: fab
+    name: Chat on WeChat
+    link: 'https://wx.qq.com/'
 
 # Site header
 
