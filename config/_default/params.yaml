@@ -144,10 +144,23 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
+
+############################
+## Maps
+############################
+# Map provider:
+# 0: No map
+# 1: Google Maps
+# 2: OpenStreetMap (Mapnik)
+# 3: OpenStreetMap (Mapbox)
 map:
-  provider: ''
+  provider: 'Mapnik'
   api_key: ''
   zoom: 15
+
+############################
+## Marketing
+############################
 marketing:
   google_analytics: ''
   google_tag_manager: ''
