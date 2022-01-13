@@ -1,28 +1,30 @@
 ---
-# Display name
+# (1) Display name
 title: Jinyang Zhang
 
-# Is this the primary user of the site?
+# (2) Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
+# (3) Role/position/tagline
 role: PhD Candidate of Agricultural Engineering
 
-# Organizations/Affiliations to show in About widget
+# (4) Organizations/Affiliations to show in About widget
 organizations:
 - name: Zhejiang University
   url: https://www.zju.edu.cn/english/
 
-# Short bio (displayed in user profile at end of posts)
+# (5) Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
+# (6) Interests to show in About widget
 interests:
+- Microwave Sensor System
+- Nondestructive Testing 
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# - Computational Linguistics
+# - Information Retrieval
 
-# Education to show in About widget
+# (7) Education to show in About widget
 education:
   courses:
   - course: PhD in Agricultural Mechanization Engineering
@@ -31,11 +33,11 @@ education:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: BSc in Agricultural Mechanization and Automation
+  - course: BE in Agricultural Mechanization and Automation
     institution: Northwest A&F University
     year: 2017
 
-# Social/Academic Networking
+# (8) Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
@@ -43,15 +45,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+#
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tylerzhang09
+#
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zjy1994
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
