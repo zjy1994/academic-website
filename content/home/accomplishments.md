@@ -33,14 +33,16 @@ item:
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship
   url: ""
-- certificate_url: https://www.edx.org
+# 
+- certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=160297
   date_end: ""
-  date_start: "2021-10-17"
+  date_start: "2020-10-20"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
+  organization: Zhejiang University
+  organization_url: https://www.zju.edu.cn/english/
+  title: Outstanding Graduate Student
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
