@@ -38,7 +38,7 @@ item:
   date_end: ""
   date_start: "2020-10-20"
   description: 
-  organization: Zhejiang University
+  organization: Zhejiang University (ZJU)
   organization_url: https://www.zju.edu.cn/english/
   title: Outstanding Graduate Student
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
@@ -47,7 +47,7 @@ item:
   date_end: ""
   date_start: "2019-10-28"
   description: ""
-  organization: Zhejiang University
+  organization: Zhejiang University (ZJU)
   organization_url: https://www.zju.edu.cn/english/
   title: 'Outstanding Doctoral Post Scholarship'
   url: ""
@@ -56,7 +56,7 @@ item:
   date_end: ""
   date_start: "2017-06-30"
   description: ""
-  organization: Northwest A&F University
+  organization: Northwest A&F University (NWSUAF)
   organization_url: https://en.nwsuaf.edu.cn/
   title: 'Outstanding Graduates'
   url: ""
