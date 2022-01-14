@@ -28,7 +28,7 @@ item:
 - certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=189473
   date_end: ""
   date_start: "2021-10-14"
-  description: ""
+  description: "The National Scholarship is the highest honorary level of national scholarship that a student can receive."
   organization: Ministry of Education of the People's Republic of China
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship
@@ -37,7 +37,7 @@ item:
 - certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=160297
   date_end: ""
   date_start: "2020-10-20"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: 
   organization: Zhejiang University
   organization_url: https://www.zju.edu.cn/english/
   title: Outstanding Graduate Student
@@ -52,7 +52,7 @@ item:
   title: 'Outstanding Doctoral Post Scholarship'
   url: ""
 #
-- certificate_url: 
+- certificate_url: https://en.nwsuaf.edu.cn/
   date_end: ""
   date_start: "2017-06-30"
   description: ""
@@ -64,17 +64,17 @@ item:
 - certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=189473
   date_end: ""
   date_start: "2016-10-10"
-  description: ""
+  description: "The National Scholarship is the highest honorary level of national scholarship that a student can receive."
   organization: Ministry of Education of the People's Republic of China
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship
   url: ""
 #
-- certificate_url: 
+- certificate_url: https://en.nwsuaf.edu.cn/
   date_end: ""
   date_start: "2015-10-12"
-  description: ""
-  organization: Northwest A&F University, Principal Sun Qixin
+  description: "The Principal Scholarship is awarded to extremely outstanding students of NWSUAF, and funded by Principal Sun Qixin."
+  organization: Northwest A&F University (NWSUAF), Principal Sun Qixin
   organization_url: https://en.nwsuaf.edu.cn/
   title: 'Principal Scholarship'
   url: ""
