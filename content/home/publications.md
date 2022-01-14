@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
-title: Recent Publications
-subtitle: 'Paper'
+title: Publications
+subtitle: 'IEEE Trans'
 
 content:
   # Filter on criteria

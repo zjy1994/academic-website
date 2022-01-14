@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 90
 
 title: Teaching Experience
 subtitle:
@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Introducing students to experiments
+        * Providing advice and assistance
+        * Evaluating students' performance
         
   - title: Professor of Semiconductor Physics
     company: University X
