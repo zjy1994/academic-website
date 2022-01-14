@@ -10,16 +10,16 @@ authors:
 - admin
 
 # (3) 作者备注 Author notes (optional) (对于专利，我就不备注一作、二作了)
-author_notes:
-- "My Advisor"
-- ""
+# author_notes:
+# - "My Advisor"
+# - ""
 
 # (4) 出版信息 专利应该不需要doi吧
-date: "2021-05-27T00:00:00Z"
+date: "2021-08-03T00:00:00Z"
 # doi: "10.1109/TIE.2020.3032927"
 
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
-publishDate: "2020-10-27T00:00:00Z"
+# publishDate: "2020-10-27T00:00:00Z"
 
 # (5) 出版物类型 
 # Publication type.
@@ -43,9 +43,9 @@ publication_short: In *PCT*
 # (7) 摘要
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# (8) 对于在主页的posts部件，显示在title下的一句总结的话
+# (8) 对于在主页的posts部件，显示在title下的一句总结的话(专利我觉得不需要)
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Patent]
 
@@ -93,7 +93,7 @@ image:
 projects:
 - example
 
-# 幻灯片
+# (12) 幻灯片
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
