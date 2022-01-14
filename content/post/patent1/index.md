@@ -47,7 +47,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Patent]
 
 # (9) 开关！决定要不要同时显示到 特色出版物 部件中，即 Featured Publications
 # Display this page in the Featured widget?
@@ -69,6 +69,15 @@ url_video: ''
 
 # (10) 摘要图，命名格式要求：featured.jpg/png
 # Featured image
+#
+# Placement options:
+# 1: Full column width,
+# 2: Out-set,
+# 3: Screen-width, 
+#
+# Focal point options: 
+# Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+#
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
