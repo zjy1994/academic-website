@@ -43,13 +43,40 @@ item:
   title: Outstanding Graduate Student
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1436&object_id=146002
+  date_end: ""
+  date_start: "2019-10-28"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Zhejiang University
+  organization_url: https://www.zju.edu.cn/english/
+  title: 'Outstanding Doctoral Post Scholarship'
+  url: ""
+#
+- certificate_url: 
+  date_end: ""
+  date_start: "2017-06-30"
+  description: ""
+  organization: Northwest A&F University
+  organization_url: https://en.nwsuaf.edu.cn/
+  title: 'Outstanding Graduates'
+  url: ""
+#
+- certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=189473
+  date_end: ""
+  date_start: "2016-10-10"
+  description: ""
+  organization: Ministry of Education of the People's Republic of China
+  organization_url: http://www.moe.gov.cn/
+  title: National Scholarship
+  url: ""
+#
+- certificate_url: 
+  date_end: ""
+  date_start: "2015-10-12"
+  description: ""
+  organization: Northwest A&F University, Principal Sun Qixin
+  organization_url: https://en.nwsuaf.edu.cn/
+  title: 'Principal Scholarship'
   url: ""
 
 design:
