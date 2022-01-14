@@ -1,12 +1,11 @@
 ---
-# (1) 报告title
 title: On-Line Moisture-Sensing System using Multi-Frequency Microwave Signals Optimized by Novel Two-Stage Frequency Selection Framework
 
-# (2) 大会名称，链接
+
 event: ASABE 2021 Annual International Meeting
 event_url: https://www.asabe.org/Events/2021-Annual-International-Meeting
 
-# (3) 位置信息
+
 location: Anaheim Marriott Hotel
 address:
   street: 700 W Convention Way
@@ -15,7 +14,7 @@ address:
   postcode: '92802'
   country: United States
 
-# (4) 主页中，在报告title下的一句话
+
 summary: ASABE 2021 Annual International Meeting.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
