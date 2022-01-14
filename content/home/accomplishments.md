@@ -23,18 +23,19 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=189473
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-10-14"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Ministry of Education of the People's Republic of China
+  organization_url: http://www.moe.gov.cn/
+  title: National Scholarship
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2021-10-17"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
