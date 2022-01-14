@@ -34,6 +34,7 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+# 下面的'---'在Markdown中表示section break
 ---
 
 {{% callout note %}}
