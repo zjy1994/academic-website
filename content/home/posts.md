@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Patents
+subtitle: "1 International PCT Patent & 6 China National Invention Patent"
 
 content:
   # Filter on criteria
