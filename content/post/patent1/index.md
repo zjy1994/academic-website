@@ -1,6 +1,6 @@
 ---
 # (1) 专利名称
-title: "Second-Order Frequency Selection Method and Apparatus for Microwave Frequency Sweep Data"
+title: "A Novel Two-Stage Frequency Selection Method and Device Applied to Microwave Frequency Swept Data"
 
 # (2) 专利作者 Authors (我只写两个吧)
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -102,7 +102,7 @@ projects:
 slides: example
 ---
 
-# 两个淡蓝色信息提示框
+
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
