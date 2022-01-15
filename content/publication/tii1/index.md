@@ -23,7 +23,7 @@ doi: "10.1109/TIE.2020.3032927"
 
 # (5) 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2020-09-27T00:00:00Z"
+publishDate: "2020-09-27T00:00:00Z"
 
 # (6) 出版物类型
 # Publication type.
