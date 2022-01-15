@@ -46,7 +46,7 @@ publication: In *IEEE Transactions on Industrial Electronics*
 publication_short: In *IEEE TIE*
 
 # (8) 摘要
-abstract: In this article, an on-line microwave moisture sensing system (OM2S2) based on a multifrequency swept technique was developed to monitor the moisture content (MC) of corn in the fresh to dry state (MC ranged from 10.89% to 63.64%) in real time. Attenuation and phase shift data were collected under a frequency swept signal containing 801 frequencies from 2.00 to 10.00 GHz with a 10 MHz interval. To remove the inefficient frequencies, the optimized frequencies were selected by a two-stage frequency selection framework: 1) 17 frequency subsets were generated using the random forest-recursive feature elimination algorithm, and then 2) the optimal frequency set (including eight individual frequencies) was determined using voting strategies according to the results of ten-fold cross-validation.
+abstract: Attenuation and phase shift data were collected under a frequency swept signal containing 801 frequencies from 2.00 to 10.00 GHz with a 10 MHz interval. To remove the inefficient frequencies, the optimized frequencies were selected by a two-stage frequency selection framework: 1) 17 frequency subsets were generated using the random forest-recursive feature elimination algorithm, and then 2) the optimal frequency set (including eight individual frequencies) was determined using voting strategies according to the results of ten-fold cross-validation.
 
 # (9) 如果设置为 "Featured Publications"，那么这个summary会显示到图片下方，否则就不会显示出来！
 # Summary. An optional shortened abstract.
