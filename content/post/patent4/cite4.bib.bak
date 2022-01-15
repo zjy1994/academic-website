@@ -1,9 +1,0 @@
-% Encoding: UTF-8
-
-@Misc{patent4,
-  author = {Zhenbo Wei and Jinyang Zhang and Jun Wang and Yongwei Wang and Shaoming Cheng},
-  title  = {A Measurement Device for Grain Moisture Content Based on Multi-Frequency Microwaves Swept Measurement Method},
-  year   = {2020},
-}
-
-@Comment{jabref-meta: databaseType:bibtex;}
