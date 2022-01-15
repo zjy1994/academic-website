@@ -18,7 +18,7 @@ author_notes:
 
 # (4) 出版信息
 date: "2021-09-17T00:00:00Z"
-doi: "10.1109/TIE.2020.3032927"
+doi: "10.1109/TIE.2021.3116582"
 
 # (5) Schedule page publish date (NOT publication's date). 目前不清楚这个是显示在哪里的？
 publishDate: "2020-10-27T00:00:00Z"
@@ -67,6 +67,7 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+# (11) 图片
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -74,6 +75,7 @@ image:
   focal_point: ""
   preview_only: false
 
+# (12) 相关项目
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -82,12 +84,15 @@ image:
 projects:
 - example
 
+# (13) 幻灯片(我觉得没必要，直接点doi就能看到我的文章了，所以就注释掉了)
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
+
+
 ---
 
 {{% callout note %}}
