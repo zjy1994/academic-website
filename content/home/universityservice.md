@@ -39,7 +39,7 @@ experience:
   - title: Minister of Organization Department
     company: Association for Science and Technology, Northwest A&F University
     company_url: 'https://en.nwsuaf.edu.cn/'
-    company_logo: nwsuaf
+    company_logo: org-zju
     location: Yangling, China
     date_start: '2015-09-07'
     date_end: '2017-03-31'
