@@ -18,11 +18,4 @@
   doi     = {10.1109/TIE.2021.3116582},
 }
 
-@Patent{PCT2022,
-  nationality = {CN},
-  number      = {PCT/CN2021/096341},
-  year        = {2022},
-  yearfiled   = {2021},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
