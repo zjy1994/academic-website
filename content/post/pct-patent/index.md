@@ -10,16 +10,16 @@ authors:
 - admin
 
 # (3) 作者备注 Author notes (optional) (对于专利，我就不备注一作、二作了)
-author_notes:
-- "My Advisor"
-- ""
+# author_notes:
+# - "My Advisor"
+# - ""
 
 # (4) 出版信息 专利应该不需要doi吧
 date: "2021-05-27T00:00:00Z"
 # doi: "10.1109/TIE.2020.3032927"
 
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
-publishDate: "2020-10-27T00:00:00Z"
+# publishDate: "2020-10-27T00:00:00Z"
 
 # (5) 出版物类型 
 # Publication type.
@@ -47,7 +47,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [patent]
 
 # (9) 开关！决定要不要同时显示到 特色出版物 部件中，即 Featured Publications
 # Display this page in the Featured widget?
