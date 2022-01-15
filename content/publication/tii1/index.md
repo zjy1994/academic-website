@@ -19,7 +19,7 @@ author_notes:
 
 # (4) 出版信息
 date: "2022-01-17T00:00:00Z"
-doi: ""
+doi: "10.1109/TIE.2020.3032927"
 
 # (5) 
 # Schedule page publish date (NOT publication's date).
