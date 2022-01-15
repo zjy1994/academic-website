@@ -42,7 +42,7 @@ publication_types: ["2"]
 # (7) 期刊名称 缩写
 # Publication name and optional abbreviated publication name.
 publication: In *Food Chemistry*
-publication_short: In *Food Chem.*
+publication_short: In *Food Chem*
 
 # (8) 摘要
 # Abstract
