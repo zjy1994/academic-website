@@ -46,7 +46,7 @@ publication: In *IEEE Transactions on Industrial Electronics*
 publication_short: In *IEEE TIE*
 
 # (8) 摘要
-abstract: Attenuation and phase shift data were collected under a frequency swept signal containing 801 frequencies from 2.00 to 10.00 GHz with a 10 MHz interval. To remove the inefficient frequencies, the optimized frequencies were selected by a two-stage frequency selection framework: 1) 17 frequency subsets were generated using the random forest-recursive feature elimination algorithm, and then 2) the optimal frequency set (including eight individual frequencies) was determined using voting strategies according to the results of ten-fold cross-validation.
+abstract:  To remove the inefficient frequencies, the optimized frequencies were selected by a two-stage frequency selection framework: 1) 17 frequency subsets were generated using the random forest-recursive feature elimination algorithm, and then 2) the optimal frequency set (including eight individual frequencies) was determined using voting strategies according to the results of ten-fold cross-validation.
 
 # (9) 如果设置为 "Featured Publications"，那么这个summary会显示到图片下方，否则就不会显示出来！
 # Summary. An optional shortened abstract.
