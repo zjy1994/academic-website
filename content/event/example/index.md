@@ -42,7 +42,7 @@ featured: false
 
 # (10) 图片
 image:
-  caption: 'Image credit: [**CSAM**](http://www.agro-csam.org/english/index.shtml)'
+  caption: 'Image credit: [**CSAM**](http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml)'
   focal_point: Right
 
 # (11) 左上方标签
