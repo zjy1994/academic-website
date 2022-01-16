@@ -15,20 +15,23 @@ address:
   postcode: '310030'
   country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+# (4) 显示在主页，报告题目下的一句小总结，我是换成了大会名称
+summary: CSAM 2018 Academic Annual Conference.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
+# (5) 汇报时间，参考网页：http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-11-25T10:00:00Z"
+date_end: "2018-11-25T11:00:00Z"
 all_day: false
 
+# (6) 与Publications和Patents一样，我还是不清楚这个"publishDate"到底是显示到哪里？
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [conference]
 
 # Is this a featured talk? (true/false)
 featured: false
