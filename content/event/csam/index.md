@@ -2,30 +2,30 @@
 # (1) 报告题目
 title: "Determination of Moisture Content of Sweet Corn by Using Multifrequency Microwaves Swept Measurement"
 
-# (2) 会议信息
+# (2) 大会名称，链接
 event: Chinese Society for Agricultural Machinery (CSAM) Academic Annual Conference 2018
 event_url: http://www.agro-csam.org/english/index.shtml
 
 # (3) 地址
-location: Anxiang Relax Hotel
+location: Anaheim Marriott Hotel
 address:
-  street: 1618 Jincheng Rd
-  city: Hangzhou
-  region: ZJ
-  postcode: '310030'
-  country: China
+  street: 700 W Convention Way
+  city: Anaheim
+  region: CA
+  postcode: '92802'
+  country: United States
 
-# (4) 显示在主页，报告题目下的一句小总结，我是换成了大会名称
-summary: CSAM 2018 Academic Annual Conference.
+# (4) 显示在报告题目下的一句总结
+summary: ASABE 2021 Annual International Meeting.
 
-# (5) 摘要
+# (5) 在主页点击后，显示在图片下方的摘要
 abstract: "Grain production is the basis of global food security. Inadequate drying and over-drying are causes of significant grain postharvest loss (PHL), while the most important reason for inadequate drying and over-drying is the lack of timely and reliable information on moisture content during the drying process. Therefore, our team developed an online moisture sensing system based on the selective multifrequency microwave swept (SMFMS) measurement technique. In this work, we proposed a two-stage frequency selection framework to optimize the microwave frequencies."
 
-# (6) 汇报时间，参考网页：http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml
+# (6) 汇报时间
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-11-25T10:00:00Z"
-date_end: "2018-11-25T11:00:00Z"
+date: "2021-07-12T13:00:00Z"
+date_end: "2021-07-12T15:00:00Z"
 all_day: false
 
 # (7) 与Publications和Patents一样，我还是不清楚这个"publishDate"到底是显示到哪里？
@@ -42,7 +42,7 @@ featured: false
 
 # (10) 图片
 image:
-  caption: 'Image credit: [**CSAM**](http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml)'
+  caption: 'Image credit: [**ASABE**](https://www.asabe.org/Events/2021-Annual-International-Meeting)'
   focal_point: Right
 
 # (11) 左上方标签
@@ -50,19 +50,19 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/tylerzhang09
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# (12) 幻灯片(觉得没必要，可以注释掉)
+# (12) 觉得没必要，可以注释掉
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: example
 
 # (13) 相关的项目
 # Projects (optional).
@@ -70,8 +70,20 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-# - example
+projects:
+- example
 
 
----
+#---
+
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
+
+# Slides can be added in a few ways:
+
+# - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+# Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
