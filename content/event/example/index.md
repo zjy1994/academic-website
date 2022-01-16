@@ -19,7 +19,7 @@ address:
 summary: CSAM 2018 Academic Annual Conference.
 
 # (5) 摘要
-abstract: III
+abstract: "III"
 
 # (6) 汇报时间，参考网页：http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml
 # Talk start and end times.
@@ -72,6 +72,8 @@ slides: example
 #   Otherwise, set `projects = []`.
 projects:
 - example
+
+
 ---
 
 {{% callout note %}}
