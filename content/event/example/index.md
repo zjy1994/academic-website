@@ -19,7 +19,7 @@ address:
 summary: CSAM 2018 Academic Annual Conference.
 
 # (5) 摘要
-abstract: "cao"
+abstract: "Grain production is the basis of global food security. Inadequate drying and over-drying are causes of significant grain postharvest loss (PHL), while the most important reason for inadequate drying and over-drying is the lack of timely and reliable information on moisture content during the drying process. Therefore, our team developed an online moisture sensing system based on the selective multifrequency microwave swept (SMFMS) measurement technique. In this work, we proposed a two-stage frequency selection framework to optimize the microwave frequencies."
 
 # (6) 汇报时间，参考网页：http://www.agro-csam.org/xhhd/gjjl/zyxw/2018/11/65886.shtml
 # Talk start and end times.
