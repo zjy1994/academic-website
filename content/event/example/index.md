@@ -1,16 +1,19 @@
 ---
-title: Example Talk
+# (1) 报告题目
+title: "Determination of Moisture Content of Sweet Corn by Using Multifrequency Microwaves Swept Measurement"
 
-event: Wowchemy Conference
-event_url: https://example.org
+# (2) 会议信息
+event: Chinese Society for Agricultural Machinery (CSAM) Academic Annual Conference 2018
+event_url: http://www.agro-csam.org/english/index.shtml
 
-location: Wowchemy HQ
+# (3) 地址
+location: Anxiang Relax Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 1618 Jincheng Rd
+  city: Hangzhou
+  region: ZJ
+  postcode: '310030'
+  country: China
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
