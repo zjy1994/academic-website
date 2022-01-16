@@ -1,10 +1,10 @@
 ---
 # (1) 报告题目
-title: "Determination of Moisture Content of Sweet Corn by Using Multifrequency Microwaves Swept Measurement"
+title: "Online Moisture Sensing System using Multi-Frequency Microwave Signals Optimized by Novel Two-Stage Frequency Selection Framework"
 
 # (2) 大会名称，链接
-event: Chinese Society for Agricultural Machinery (CSAM) Academic Annual Conference 2018
-event_url: http://www.agro-csam.org/english/index.shtml
+event: ASABE 2021 Annual International Meeting
+event_url: https://www.asabe.org/Events/2021-Annual-International-Meeting
 
 # (3) 地址
 location: Anaheim Marriott Hotel
