@@ -56,6 +56,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
+# (12) 觉得没必要，可以注释掉
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -63,6 +64,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
+# (13) 相关的项目
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -70,11 +72,13 @@ slides: example
 #   Otherwise, set `projects = []`.
 projects:
 - example
----
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+
+#---
+
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
 # Slides can be added in a few ways:
 
