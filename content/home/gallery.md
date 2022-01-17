@@ -7,12 +7,13 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 150
+weight: 66
 
 title: Gallery
 subtitle:
 
 design:
   columns: '2'
-
 ---
+
+{{< gallery album="../../assets/media/albums" >}}
