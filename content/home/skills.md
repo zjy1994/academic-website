@@ -41,7 +41,8 @@ feature:
   icon_pack: fas
   name: Photography
   
-
+design:
+  columns: '2'
 
 
 # Uncomment to use emoji icons.
