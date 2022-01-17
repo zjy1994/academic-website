@@ -40,6 +40,10 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
+  
+https://fonts.googleapis.com
+https://cdnjs.cloudflare.com/ 
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
