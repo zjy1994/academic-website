@@ -32,7 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-		
+        * Introducing students to experiments
+        * Providing advice and assistance
+        * Evaluating students' performance
         
   - title: Minister of Organization Department
     company: Association for Science and Technology, Northwest A&F University
