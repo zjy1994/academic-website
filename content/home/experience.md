@@ -32,8 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Organizing regular training
-        * Leading the team to games
+        * Introducing students to experiments
+        * Providing advice and assistance
+        * Evaluating students' performance
+	
         
 #  - title: Professor of Semiconductor Physics
 #    company: University X
