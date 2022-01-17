@@ -48,6 +48,15 @@ feature:
   name: "python"
 #  description: "90%"
 
+- icon: pytorch
+  icon_pack: "custom"
+  name: "PyTorch"
+#  description: "90%"
+
+- icon: sklearn
+  icon_pack: "custom"
+  name: "scikit-learn"
+#  description: "90%"
 ---
 
 Add any content here - text, images, videos, galleries - and even HTML code!
