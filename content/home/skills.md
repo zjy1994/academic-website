@@ -73,7 +73,7 @@ feature:
   name: "OriginPro"
 #  description: "90%"
 
-- icon: stm32
+- icon: arduino_
   icon_pack: "custom"
   name: "STM32/Arduino"
 #  description: "90%"
