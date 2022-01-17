@@ -41,8 +41,7 @@ feature:
   icon_pack: fas
   name: Photography
   
-https://fonts.googleapis.com
-https://cdnjs.cloudflare.com/ 
+
 
 
 # Uncomment to use emoji icons.
