@@ -16,4 +16,5 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="<myphotos>" >}}
+
+{{< gallery album="<E:/GitHub/academic-website/assets/media/albums/myphotos>" >}}
