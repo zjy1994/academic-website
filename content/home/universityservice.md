@@ -25,7 +25,7 @@ experience:
   - title: Basketball Team Captain
     company: College of Biosystems Engineering and Food Science, Zhejiang University
     company_url: 'http://www.caefs.zju.edu.cn/english/'
-    company_logo: nwsuaf-new
+    company_logo: nwsuaf-logo
     location: Hangzhou, China
     date_start: '2019-10-08'
     date_end: '2021-10-29'
@@ -39,7 +39,7 @@ experience:
   - title: Minister of Organization Department
     company: Association for Science and Technology, Northwest A&F University
     company_url: 'https://en.nwsuaf.edu.cn/'
-    company_logo: nwsuaf-new
+    company_logo: nwsuaf-logo
     location: Yangling, China
     date_start: '2015-09-07'
     date_end: '2017-03-31'
