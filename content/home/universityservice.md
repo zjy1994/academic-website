@@ -34,8 +34,7 @@ experience:
         
         * Organizing regular training
         * Leading the team to games
-	
-        
+       
   - title: Minister of Organization Department
     company: Association for Science and Technology, Northwest A&F University
     company_url: 'https://en.nwsuaf.edu.cn/'

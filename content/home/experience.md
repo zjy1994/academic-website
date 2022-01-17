@@ -35,7 +35,6 @@ experience:
         * Introducing students to experiments
         * Providing advice and assistance
         * Evaluating students' performance
-	
         
 #  - title: Professor of Semiconductor Physics
 #    company: University X
