@@ -53,7 +53,7 @@ feature:
   name: "PyTorch"
 #  description: "90%"
 
-- icon: sklearn2
+- icon: scikit
   icon_pack: "custom"
   name: "scikit-learn"
 #  description: "90%"
