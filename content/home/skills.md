@@ -46,7 +46,7 @@ feature:
 - icon: python
   icon_pack: "custom"
   name: "python"
-  description: "90%"
+#  description: "90%"
 
 ---
 
