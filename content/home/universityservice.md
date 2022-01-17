@@ -32,9 +32,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Introducing students to experiments
-        * Providing advice and assistance
-        * Evaluating students' performance
+		* Organizing regular training
+		* Leading the team to games
         
   - title: Minister of Organization Department
     company: Association for Science and Technology, Northwest A&F University
@@ -43,7 +42,7 @@ experience:
     location: Yangling, China
     date_start: '2015-09-07'
     date_end: '2017-03-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Planning and organizing technological innovation achievement exhibitions.
 
 design:
   columns: '2'
