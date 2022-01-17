@@ -41,8 +41,7 @@ feature:
   icon_pack: fas
   name: Photography
   
-design:
-  columns: '2'
+
 
 
 # Uncomment to use emoji icons.
@@ -64,14 +63,14 @@ design:
 
 Add any content here - text, images, videos, galleries - and even HTML code!
 
-Programming languages and mathematical packages: Python, Matlab, C, C ++
+**Programming languages and mathematical packages:** Python, Matlab, C, C ++
 
-Data analysis and visualization: OriginPro, Excel, SPSS, SIMCA, Unscramble, GraphPad
+**Data analysis and visualization:** OriginPro, Excel, SPSS, SIMCA, Unscramble, GraphPad
 
-Machine/deep learning packages: PyTorch, Scikit-learn, Keras, TensorFlow
+**Machine/deep learning packages:** PyTorch, Scikit-learn, Keras, TensorFlow
 
-Computer aided design/engineering: Solidworks, Pro/E, UG, AutoCAD
+**Computer aided design/engineering:** Solidworks, Pro/E, UG, AutoCAD
 
-Embedded systems: STM32, Arduino, Keil, Linux (Ubuntu)
+**Embedded systems:** STM32, Arduino, Keil, Linux (Ubuntu)
 
-Other: LaTeX, MySQL, Comsol, Android Studio
+**Other:** LaTeX, MySQL, Comsol, Android Studio
