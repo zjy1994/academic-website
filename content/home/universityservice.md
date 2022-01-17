@@ -25,7 +25,7 @@ experience:
   - title: Basketball Team Captain
     company: College of Biosystems Engineering and Food Science, Zhejiang University
     company_url: 'http://www.caefs.zju.edu.cn/english/'
-    company_logo: org-zju
+    company_logo: nwsuaf-new
     location: Hangzhou, China
     date_start: '2019-10-08'
     date_end: '2021-10-29'
