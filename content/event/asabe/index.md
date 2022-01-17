@@ -3,7 +3,8 @@
 title: "Online Moisture Sensing System using Multi-Frequency Microwave Signals Optimized by Novel Two-Stage Frequency Selection Framework"
 
 # (2) 大会名称，链接
-event: ASABE 2021 Annual International Meeting
+# event: ASABE 2021 Annual International Meeting
+event: American Society of Agricultural and Biological Engineers (ASABE) Annual International Meeting 2021
 event_url: https://www.asabe.org/Events/2021-Annual-International-Meeting
 
 # (3) 地址
