@@ -82,6 +82,11 @@ feature:
   icon_pack: "custom"
   name: "Linux"
 #  description: "90%"
+
+- icon: MySQL
+  icon_pack: "custom"
+  name: "MySQL"
+#  description: "90%"
 ---
 
 Add any content here - text, images, videos, galleries - and even HTML code!
