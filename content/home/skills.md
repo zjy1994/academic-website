@@ -83,7 +83,7 @@ feature:
   name: "Linux"
 #  description: "90%"
 
-- icon: MySQL
+- icon: MySQL2
   icon_pack: "custom"
   name: "MySQL"
 #  description: "90%"
