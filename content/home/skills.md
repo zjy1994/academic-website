@@ -67,6 +67,21 @@ feature:
   icon_pack: "custom"
   name: "SolidWorks"
 #  description: "90%"
+
+- icon: OriginPro2
+  icon_pack: "custom"
+  name: "OriginPro"
+#  description: "90%"
+
+- icon: stm32
+  icon_pack: "custom"
+  name: "STM32/Arduino"
+#  description: "90%"
+
+- icon: linux
+  icon_pack: "custom"
+  name: "Linux"
+#  description: "90%"
 ---
 
 Add any content here - text, images, videos, galleries - and even HTML code!
