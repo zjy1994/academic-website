@@ -14,7 +14,7 @@ organizations:
   url: https://www.zju.edu.cn/english/
 
 # (5) Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include microwave sensor system, nondestructive testing (NDT) and artificial intelligence (AI).
 
 # (6) Interests to show in About widget
 interests:
