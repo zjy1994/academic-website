@@ -79,7 +79,7 @@ highlight_name: true
 
 ---
 
-Jinyang Zhang is a Ph.D. candidate of agricultural engineering at the AE&ID Lab of Zhejiang University. His research interests include microwave sensor system, nondestructive testing (NDT) and artificial intelligence (AI). 
+Jinyang Zhang is a Ph.D. candidate of agricultural engineering at the **AE&ID Lab** of Zhejiang University. His research interests include microwave sensor system, nondestructive testing (NDT) and artificial intelligence (AI). 
 
 He proposed the selective multi-frequency microwave swept (SMFMS) measurement technique to extract the most critical moisture-relevant information, and developed a moisture content measurement system (OM2S2) using the SMFMS measurement technique.
 
