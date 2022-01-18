@@ -1,5 +1,5 @@
 ---
-# (1) Display name
+# (1) 头像下的姓名 Display name
 title: Jinyang Zhang
 
 # (2) Is this the primary user of the site?
@@ -13,7 +13,7 @@ organizations:
 - name: Zhejiang University
   url: https://www.zju.edu.cn/english/
 
-# (5) Short bio (displayed in user profile at end of posts)
+# (5) Short bio (displayed in user profile at end of posts) 显示在日志posts的最下面
 bio: My research interests include microwave sensor system, nondestructive testing (NDT) and artificial intelligence (AI).
 
 # (6) Interests to show in About widget
@@ -45,17 +45,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-#
+# 推特
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tylerzhang09
-#
+# 学术主页
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?hl=zh-CN&user=rC2i9vMAAAAJ
+# 
 - icon: github
   icon_pack: fab
   link: https://github.com/zjy1994
+#
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
