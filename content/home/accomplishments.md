@@ -33,6 +33,7 @@ item:
   organization_url: http://www.moe.gov.cn/
   title: National Scholarship
   url: ""
+  icon: org-zju
 # 
 - certificate_url: http://www.caefs.zju.edu.cn/office/redir.php?catalog_id=1291&object_id=160297
   date_end: ""
@@ -81,4 +82,5 @@ item:
 
 design:
   columns: '2' 
+  
 ---
