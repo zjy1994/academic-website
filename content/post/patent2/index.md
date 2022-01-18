@@ -15,7 +15,7 @@ authors:
 # - ""
 
 # (4) 出版信息 专利应该不需要doi吧
-date: "2021-08-03T00:00:00Z"
+date: "2020-11-03T00:00:00Z"
 # doi: "10.1109/TIE.2020.3032927"
 
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
