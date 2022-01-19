@@ -6,7 +6,7 @@ headless: true
 title: Skills
 subtitle: detail
 
-weight: 140  # section position on page
+weight: 120  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
