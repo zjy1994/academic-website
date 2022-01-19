@@ -8,7 +8,7 @@ event: American Society of Agricultural and Biological Engineers (ASABE) Annual 
 event_url: https://www.asabe.org/Events/2021-Annual-International-Meeting
 
 # (3) 地址
-location: Anaheim Marriott Hotel
+location: Anaheim Marriott Hotel, Anaheim, USA
 address:
   street: 700 W Convention Way
   city: Anaheim
