@@ -25,6 +25,13 @@ doi: "10.1016/j.foodchem.2021.131158"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-27T00:00:00Z"
 
+# (add) 左上方标签
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tylerzhang09
+
 # (6) 出版物类型
 # Publication type.
 # Legend: 
@@ -42,7 +49,7 @@ publication_types: ["2"]
 # (7) 期刊名称 缩写
 # Publication name and optional abbreviated publication name.
 publication: In *Food Chemistry*
-publication_short: In *Food Chem*
+publication_short: In *Food Chemistry*
 
 # (8) 摘要
 # Abstract
@@ -86,8 +93,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # (13) 觉得没必要，所以注释掉
 # Slides (optional).
@@ -96,17 +103,18 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-
 
