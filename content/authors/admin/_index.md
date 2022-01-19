@@ -68,9 +68,9 @@ social:
 # step 1: copy your resume to `static/uploads/demo_resume.pdf`, 
 # step 2: enable `ai` icons in `params.toml`, 
 # step 3: uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/demo_resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
