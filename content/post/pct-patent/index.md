@@ -15,7 +15,7 @@ authors:
 # - ""
 
 # (4) 出版信息 专利应该不需要doi吧
-date: "2021-05-27T00:00:00Z"
+date: "2022-01-27T00:00:00Z"
 # doi: "10.1109/TIE.2020.3032927"
 
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
@@ -54,7 +54,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [patent]
+tags: [PCT]
 
 # (9) 开关！决定要不要同时显示到 特色出版物 部件中，即 Featured Publications
 # Display this page in the Featured widget?
@@ -88,8 +88,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # (12) 幻灯片(注释掉了)
 # Slides (optional).
