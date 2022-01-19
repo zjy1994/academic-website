@@ -7,7 +7,7 @@ event: Chinese Society for Agricultural Machinery (CSAM) Academic Annual Confere
 event_url: http://www.agro-csam.org/english/index.shtml
 
 # (3) 地址
-location: Anxiang Relax Hotel
+location: Anxiang Relax Hotel, Hangzhou, China
 address:
   street: 1618 Jincheng Rd
   city: Hangzhou
