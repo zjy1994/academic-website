@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Patents
-subtitle: "1 International PCT Patent & 6 China National Invention Patent"
+subtitle: "1 PCT & 6 CNIP"
 
 content:
   # Filter on criteria
