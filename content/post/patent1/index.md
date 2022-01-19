@@ -54,7 +54,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: China National Invention Patent
 
-tags: [Patent]
+tags: [CNIP]
 
 # (9) 开关！决定要不要同时显示到 特色出版物 部件中，即 Featured Publications
 # Display this page in the Featured widget?
@@ -87,7 +87,7 @@ url_video: ''
 #
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**SooPat**](http://www.soopat.com/Patent/202010542110)'
   focal_point: ""
   preview_only: false
 
