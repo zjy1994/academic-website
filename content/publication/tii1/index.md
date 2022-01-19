@@ -25,6 +25,13 @@ doi: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-09-27T00:00:00Z"
 
+# (11) 左上方标签
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tylerzhang09
+
 # (6) 出版物类型
 # Publication type.
 # Legend: 
