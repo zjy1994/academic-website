@@ -49,7 +49,7 @@ publication_types: ["2"]
 # (7) 期刊名称 缩写
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Industrial Informatics*
-publication_short: In *IEEE TII (Under review)*
+publication_short: In *IEEE Transactions on Industrial Informatics (Under review)*
 
 # (8) 摘要
 # Abstract

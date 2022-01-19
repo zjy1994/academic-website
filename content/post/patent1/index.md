@@ -21,6 +21,13 @@ date: "2021-08-03T00:00:00Z"
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
 # publishDate: "2020-10-27T00:00:00Z"
 
+# (add) 左上方标签
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tylerzhang09
+
 # (5) 出版物类型 
 # Publication type.
 # Legend: 
