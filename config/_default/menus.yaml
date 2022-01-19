@@ -10,7 +10,10 @@ main:
   - name: Awards & Honors
     url: '#accomplishments'
     weight: 15
-  - name: Posts
+  - name: Papers
+    url: '#publications'
+    weight: 18
+  - name: Patents
     url: '#posts'
     weight: 20
   - name: Projects
