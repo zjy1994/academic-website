@@ -63,14 +63,14 @@ feature:
   name: "MATLAB"
 #  description: "90%"
 
-- icon: solidworks
-  icon_pack: "custom"
-  name: "SolidWorks"
-#  description: "90%"
-
 - icon: OriginPro2
   icon_pack: "custom"
   name: "OriginPro"
+#  description: "90%"
+
+- icon: solidworks
+  icon_pack: "custom"
+  name: "SolidWorks"
 #  description: "90%"
 
 - icon: arduino_
