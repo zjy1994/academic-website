@@ -25,6 +25,12 @@ doi: "10.1109/TIE.2020.3032927"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-27T00:00:00Z"
 
+# (add) 左上方标签
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/tylerzhang09
 
 # (6) 出版物类型，注意这里可选择为 Patent
 # Publication type.
@@ -50,7 +56,7 @@ abstract: In this article, an on-line microwave moisture sensing system (OM2S2) 
 
 # (9) 如果设置为 "Featured Publications"，那么这个summary会显示到图片下方，否则就不会显示出来！
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [paper]
 
