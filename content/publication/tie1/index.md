@@ -49,7 +49,7 @@ publication_types: ["2"]
 # (7) 期刊名称 缩写
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Transactions on Industrial Electronics*
-publication_short: In *IEEE TIE*
+publication_short: In *IEEE Transactions on Industrial Electronics*
 
 # (8) 摘要
 abstract: In this article, an on-line microwave moisture sensing system (OM2S2) based on a multifrequency swept technique was developed to monitor the moisture content (MC) of corn in the fresh to dry state (MC ranged from 10.89% to 63.64%) in real time. Attenuation and phase shift data were collected under a frequency swept signal containing 801 frequencies from 2.00 to 10.00 GHz with a 10 MHz interval. To remove the inefficient frequencies, the optimized frequencies were selected by a two-stage frequency selection framework; 1) 17 frequency subsets were generated using the random forest-recursive feature elimination algorithm, and then 2) the optimal frequency set (including eight individual frequencies) was determined using voting strategies according to the results of ten-fold cross-validation. The attenuation and phase shift data corresponding to the optimal frequency set were utilized as the input variables of six regression algorithms for MC prediction. A deep neural network (coefficient of determination (R2) = 0.997, root mean square error (RMSE) = 1.087, mean absolute error (MAE) = 0.868) performed best according to the Friedman test and Nemenyi post hoc test and thus, was employed for the OM2S2. These results showed that the OM2S2 could measure the MC of corn changing from the fresh state to the dry state in real time, and it showed potential for utilization in the on-line determination of high MC in food processing and agriculture-related industries.
@@ -92,8 +92,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # (13) 觉得没必要，所以注释掉
 # Slides (optional).
@@ -104,19 +104,20 @@ projects:
 # slides: example
 
 
+
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
+
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+
+
+
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
-
-
-
 
 
