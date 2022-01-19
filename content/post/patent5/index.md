@@ -15,7 +15,7 @@ authors:
 # - ""
 
 # (4) 出版信息 专利应该不需要doi吧
-date: "2020-04-17T00:00:00Z"
+date: "2020-04-18T00:00:00Z"
 # doi: "10.1109/TIE.2020.3032927"
 
 # Schedule page publish date (NOT publication's date). (不知道这是显示到页面哪里的？)
@@ -45,7 +45,7 @@ publication_types: ["8"]
 # (6) 出版物名称 缩写
 # Publication name and optional abbreviated publication name.
 publication: In *China National Invention Patent*
-publication_short: In *CNIP*
+publication_short: In *China National Invention Patent*
 
 # (7) 摘要
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -97,8 +97,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # (12) 幻灯片
 # Slides (optional).
@@ -106,19 +106,19 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
----
+# slides: example
 
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
+---
 
 
