@@ -59,7 +59,7 @@ abstract: In this study, three modified glassy carbon electrodes based on three-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [paper]
+tags: [Food Chem]
 
 # (10) “开关”，控制是否设置为 "Featured Publications"
 # Display this page in the Featured widget?  (Very Very Very important!!!)

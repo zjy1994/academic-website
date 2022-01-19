@@ -59,7 +59,7 @@ abstract: To achieve in-situ monitoring of the occurrence of grain mildew and en
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [paper]
+tags: [IEEE Trans]
 
 # (10) “开关”，控制是否设置为 "Featured Publications"
 # Display this page in the Featured widget?  (Very Very Very important!!!)

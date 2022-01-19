@@ -58,7 +58,7 @@ abstract: In this article, an on-line microwave moisture sensing system (OM2S2) 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [paper]
+tags: [IEEE Trans]
 
 # (10) “开关”，控制是否显示到 "Featured"部件中，即是否为特色文章，或代表作
 # Display this page in the Featured widget?
