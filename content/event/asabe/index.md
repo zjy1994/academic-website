@@ -79,5 +79,5 @@ url_video: ""
 
 
 {{% callout note %}}
-Participated online.
+Participated online
 {{% /callout %}}
